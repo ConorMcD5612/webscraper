@@ -1,4 +1,3 @@
-# M3OEP-cdmcdevi
 
 <h1>Web Scraper with Data Processing</h1>
 <h2>Conor McDevitt </h2>
